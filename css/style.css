@@ -1,19 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
 body{
-    font-family: Roboto, sans-serif;
+    font-family: Lato, sans-serif;
 }
 
 .navbar {
     background-color: #CFD8DC;
 }
 
-.quem-somos{
-    background-color: #B0BEC5;
-    color: black;
-}
-
 .margin {
     padding-bottom: 50px;
     padding-top: 10px;
+}
+
+.quem-somos{
+    background-color: #B0BEC5;
+    color: black;
 }
 
 .parceiros{
