@@ -12,6 +12,11 @@ body{
 .quem-somos{
     background-color: #B0BEC5;
     color: black;
+    padding-top: 70px;
+}
+
+.quem-somos h3{
+    padding: 20px;
 }
 
 .parceiros{
